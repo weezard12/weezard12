@@ -1,7 +1,7 @@
 ## Hi 👋
 Hello I'm weezard, a game developer that enjoy making programs in C#, Java and Python. I'm most familiar with C# and for now my favorite game framework is MonoGame (and LibGDX for Java).
 
-##Projects 😎
+## Projects 😎
 GMK - A custom OOP programing language made enteyerly in Scratch.
 TCG - Multiplayer bullet hell game made with C# MonoGame and Nez.
 Shtokfish AI - Chess app made in Java using LibGDX with an ai chess engine.
