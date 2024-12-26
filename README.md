@@ -3,19 +3,19 @@
 Hello I'm weezard, a game developer that enjoy making programs in C#, Java and Python. I'm most familiar with C# and for now my favorite game framework is MonoGame (and LibGDX for Java).
 
 # Projects 😎
-- ## Games
+- ## 🎮 Games
   - **TCG** - Multiplayer bullet hell game made with C# MonoGame and Nez.
   - **[Shtokfish AI](https://github.com/weezard12/ShtokfishAI)** - Chess app made in Java using LibGDX with an AI chess engine.
   - **[Pino Invaders](https://weezard12.itch.io/pino-invaders)** - Space Invaders style game. was made with MonoGame for a YouTube Game Jam in just a couple of days.
 
-- ## Cool Stuff
+- ## ✨ Cool Stuff
   - **[RGS Installer](https://github.com/weezard12/RGS-Installer)** - Custom UI Installer for managing GitHub Releases easily.
   - **[Count Playtime](https://github.com/weezard12/Count-Playtime)** - C# WPF app with a custom Windows Service that counts the use time of selected apps and shows them in a nice UI. 
   - **[PlayFiles](https://github.com/weezard12/PlayFiles)** - C# WPF app for opening files / websites at specific times.
   - **[GMK](https://github.com/weezard12/GMK-Game-Maker)** - A custom OOP programing language made enteyerly in [Scratch](https://scratch.mit.edu/projects/741955786/).
   - **WNez** - Nez but with KNI Engine and web support.
 
-- ## Minecraft Plugins
+- ## 🔧 Minecraft Plugins
   - **Shop Plugin** - simple shop plugin for Minecraft Paper that adds an easy way of setting custom villagers.
   - **Shards Plugin Remasterd** - The Shards SMP Minecraft Plugin but with textures, more particle effects and polish.
   - **Shards** - My own version of the Shards SMP plugin.
