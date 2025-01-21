@@ -19,6 +19,7 @@ Hello I'm weezard, a game developer that enjoy making programs in C#, Java and P
   - **Shop Plugin** - simple shop plugin for Minecraft Paper that adds an easy way of setting custom villagers.
   - **Shards Plugin Remasterd** - The Shards SMP Minecraft Plugin but with textures, more particle effects and polish.
   - **Shards** - My own version of the Shards SMP plugin.
+  - **OP Mace Plugin** - Simple Minecraft plugin that makes the Mace even more powerful.
 
 ## 
 - 🔭 I’m currently working on TCG and some small projects.
