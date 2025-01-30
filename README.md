@@ -12,6 +12,7 @@ Hello I'm weezard, a game developer that enjoy making programs in C#, Java and P
   - **[RGS Installer](https://github.com/weezard12/RGS-Installer)** - Custom UI Installer for managing GitHub Releases easily.
   - **[Count Playtime](https://github.com/weezard12/Count-Playtime)** - C# WPF app with a custom Windows Service that counts the use time of selected apps and shows them in a nice UI. 
   - **[PlayFiles](https://github.com/weezard12/PlayFiles)** - C# WPF app for opening files / websites at specific times.
+  - **[Wheel](https://github.com/weezard12/Wheel)** - C# MAUI app for creating Android Studio projects description automatically with AI.
   - **[GMK](https://github.com/weezard12/GMK-Game-Maker)** - A custom OOP programing language made enteyerly in [Scratch](https://scratch.mit.edu/projects/741955786/) using over then 13,000 scratch blocks.
   - **WNez** - Nez but with KNI Engine and web support.
 
