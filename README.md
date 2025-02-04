@@ -28,6 +28,8 @@ Hello I'm weezard, a game developer that enjoy making programs in C#, Java and P
 
 Reach me on discord as weezard12
 
+### ♥️ Your support will make a difference
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R71A1ZCO)
 <!--
 **weezard12/weezard12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
