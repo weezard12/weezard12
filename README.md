@@ -1,6 +1,7 @@
 # 😄👋
 ### About myself
-Hello I'm weezard, a game developer that enjoy making programs in C#, Java and Python. I'm most familiar with C# and for now my favorite game framework is MonoGame (and LibGDX for Java).
+Hello I'm weezard, a game developer that enjoy making programs in C#, Java and Python. I'm most familiar with C# and for now my favorite Game Development Framework is MonoGame (and LibGDX for Java).  
+For applications development I moustlly use WPF and MAUI.
 
 # Projects 😎
 - ## 🎮 Games
