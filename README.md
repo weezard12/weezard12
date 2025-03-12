@@ -14,6 +14,7 @@ For applications development I moustlly use WPF and MAUI.
   - **[Count Playtime](https://github.com/weezard12/Count-Playtime)** - C# WPF app with a custom Windows Service that counts the use time of selected apps and shows them in a nice UI. 
   - **[PlayFiles](https://github.com/weezard12/PlayFiles)** - C# WPF app for opening files / websites at specific times.
   - **[Wheel](https://github.com/weezard12/Wheel)** - C# MAUI app for creating Android Studio projects description automatically with AI.
+  - **[Free Radio](https://github.com/weezard12/FreeRadio)** - Simple and Adds-Free Multi-Platform Radio App, for listening to popular Israeli radio stations.
   - **[GMK](https://github.com/weezard12/GMK-Game-Maker)** - A custom OOP programing language made enteyerly in [Scratch](https://scratch.mit.edu/projects/741955786/) using over then 13,000 scratch blocks.
   - **WNez** - Nez but with KNI Engine and web support.
 
