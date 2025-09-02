@@ -16,7 +16,7 @@ For applications development I moustlly use WPF and MAUI.
   - **[Wheel](https://github.com/weezard12/Wheel-Project-Generator)** - C# MAUI app for creating Android Studio projects description automatically with AI.
   - **[Free Radio](https://github.com/weezard12/FreeRadio)** - Simple and Adds-Free Multi-Platform Radio App, for listening to popular Israeli radio stations.
   - **[PC Time Limit](https://github.com/weezard12/PCTimeLimit)** - C# WPF app for limiting your child's screen time, another app for yourself to manage the time limit.
-  - **[WTiles Engine](https://github.com/weezard12/WTilesEngine)** - Game Engine build on top of MonoGame and Nez, that primerelly targets dynamic tilemaps with multiplayer support. 
+  - **[WEngine Tiles](https://github.com/weezard12/WEngineTiles)** - Game Engine build on top of MonoGame and Nez, that primerelly targets dynamic tilemaps with multiplayer support. 
   - **[GMK](https://github.com/weezard12/GMK-Game-Maker)** - A custom OOP programing language made enteyerly in [Scratch](https://scratch.mit.edu/projects/741955786/) using over then 13,000 scratch blocks.
   - **WNez** - Nez but with KNI Engine and web support.
 
